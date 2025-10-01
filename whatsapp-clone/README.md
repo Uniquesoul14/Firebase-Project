@@ -68,7 +68,7 @@ Click on any user to open the Chat Page.<br>
 
 Send and receive messages in real-time.
 
-🔹 Technologies Used
+<h2>🔹 Technologies Used</h2>
 
 React 18<br>
 
