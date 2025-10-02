@@ -1,6 +1,15 @@
 <h1>WhatsApp Clone Chat App 🚀</h1>
 
 A minimal real-time chat application built with React, Redux Toolkit, Firebase (Auth + Firestore), React Router v6, and Bootstrap, inspired by WhatsApp UI. Users can sign up, log in, view other users, and chat in real-time.
+<h2>Demo</h2>
+
+
+https://github.com/user-attachments/assets/c425c09c-0d59-4290-ab34-a71f767ed94c
+
+
+
+
+
 <h2>Screenshots</h2>
 
 <img width="1918" height="1028" alt="fb1" src="https://github.com/user-attachments/assets/2bdbfe94-4202-4894-8442-b4cb3fe4864f" />
